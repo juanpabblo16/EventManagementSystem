@@ -1,7 +1,7 @@
 body{
 	margin:0;
 	padding:0;
-	background:url(pic3.jpg);
+	background:url(images/pic3.jpg);
 	background-size: cover ;
 	background-position: center;
 	font-family: sans-serif;
@@ -30,7 +30,7 @@ h1{
 	margin:0;
 	padding:0 0 20px;
 	text-align:center;
-	font-size:22px;  	
+	font-size:22px;
 }
 .loginbox p{
 	margin:0;
@@ -49,7 +49,7 @@ h1{
 	outline:none;
 	height:40px;
 	color: #fff;
-	font-size:16px;	
+	font-size:16px;
 }
 .loginbox input[type="submit"]{
 	border:none;

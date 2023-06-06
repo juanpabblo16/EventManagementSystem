@@ -1,0 +1,45 @@
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif; /* Use a font similar to mine */
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+select,
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px; /* Rounded edges for text boxes */
+    background-color: #333;
+    color: #fff;
+}
+
+textarea {
+    height: 100px;
+}
+
+button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px; /* Rounded edges for buttons */
+    background-color: #555;
+    color: #fff;
+    cursor: pointer;
+}

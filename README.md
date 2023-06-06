@@ -8,8 +8,7 @@ To install and run this project locally on your machine, follow these steps:
 
 1. Clone the repository using the following command: git clone ``https://github.com/your-username/project-name.git``
 2. Navigate to the project directory: ``cd project-name``
-
-3. [Add any specific installation instructions or dependencies here, if applicable.]
+3. Also will need HTML, Java Sccript and Java.
 
 ## Usage
 

@@ -7,7 +7,7 @@ This is a README file for the Project Name repository. The repository contains [
 To install and run this project locally on your machine, follow these steps:
 
 1. Clone the repository using the following command: git clone https://github.com/your-username/project-name.git
-2. Navigate to the project directory: ´´ cd project-name ´´
+2. Navigate to the project directory: cd project-name
 
 3. [Add any specific installation instructions or dependencies here, if applicable.]
 

@@ -1,6 +1,6 @@
 # Logistic Management System
 
-This is a README file for the Project Name repository. The repository contains [briefly describe the purpose or main features of the project].
+This is a README file for the Logistic Management System repository. The repository contains [briefly describe the purpose or main features of the project].
 
 ## Installation
 

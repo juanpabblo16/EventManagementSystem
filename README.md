@@ -26,8 +26,8 @@ This web application, developed in JavaScript, HTML, CSS, and Java, allows users
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/juanpabblo16/EventManagementSystem.git`
+2. Navigate to the project directory
 3. Open the project in your preferred development environment.
 4. Ensure you have the necessary dependencies installed.
 5. Start the server and launch the application.

@@ -10,10 +10,6 @@ To install and run this project locally on your machine, follow these steps:
 2. Navigate to the project directory: ``cd project-name``
 3. Also will need HTML, Java Sccript and Java.
 
-## Usage
-
-[Provide instructions or guidelines on how to use the project or any relevant information for users.]
-
 ## Collaborators
 
 The following people have contributed to this project:
